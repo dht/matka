@@ -23,7 +23,7 @@ Name it as follows: `3.mp4`
 
 ## Update scripts
 
-Update the scripts in `countHits` and `reduceNoise.js`, change the `index` to the sequence of the video.
+Update the scripts in `countHits.py` and `reduceNoise.js`, change the `index` to the sequence of the video.
 
 ## Run the script
 
